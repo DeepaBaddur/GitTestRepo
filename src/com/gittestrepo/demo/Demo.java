@@ -4,11 +4,7 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		System.out.println("This is a demo");
-<<<<<<< HEAD
 		System.out.println("This code is there in branch1");
-=======
-		System.out.println("This code is there in branch2");
->>>>>>> refs/heads/master
 		System.out.println("Linearsearch algorithm");		
 		// Let's write some code.
 		int arr[] = {2, 3, 4, 10, 18, 17, 40};
