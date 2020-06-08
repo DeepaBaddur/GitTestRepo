@@ -3,6 +3,7 @@ package com.gittestrepo.demo;
 public class Demo {
 	
 	public static void main(String[] args) {
+		System.out.println("This is a demo");
 		System.out.println("This code is there in branch1");
 		System.out.println("Linearsearch algorithm");		
 		// Let's write some code.
